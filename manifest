@@ -1,0 +1,9 @@
+title=Mike Disanto
+subtitle=Mad Men 
+mm_icon_focus_hd=pkg:/images/336X210-icon-focus-hd.jpg
+mm_icon_focus_sd=pkg:/images/front-logo-uploadtv-ctv-sd-icon.jpg
+mm_icon_side_hd=pkg:/images/upload-icon-side-hd.jpg
+mm_icon_side_sd=pkg:/images/upload-icon-side-sd.jpg
+major_version=1
+minor_version=1
+build_version=00001
